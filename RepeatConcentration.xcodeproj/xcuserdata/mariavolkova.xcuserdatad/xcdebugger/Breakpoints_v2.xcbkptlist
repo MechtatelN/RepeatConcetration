@@ -1,0 +1,1488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "191AFB3D-C074-4FEB-9C8B-6A44CAED55DD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "915DDE97-0012-4D91-9AD0-DA2F32BB0052"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepeatConcentration/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "buttonAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9B4FAE4-F938-4934-8979-7503E9B3F7F4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepeatConcentration/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "buttonAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D007ADE6-640C-4676-80A0-011A4BA1B470"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ConcetrationGame.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "chooseCard(index:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A90089BF-BB96-434D-B99F-D7C068E202D4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ConcetrationGame.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "chooseCard(index:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D156B515-AE44-4B90-8C94-58B7C7B7B4BB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepeatConcentration/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "Int"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CAFBBFA6-2786-4FBC-B8F4-B2D5662375D6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepeatConcentration/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "emojiJoin(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7E0B427A-F834-4521-ABF4-E9174C24F86E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepeatConcentration/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "7E0B427A-F834-4521-ABF4-E9174C24F86E - ff03711c67920672"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.ViewController.(game in _460F1539FF075A691B81FF791FAE30F5).getter : RepeatConcentration.ConcetrationGame"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/RepeatConcentration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "225">
+               </Location>
+               <Location
+                  uuid = "7E0B427A-F834-4521-ABF4-E9174C24F86E - ff03711c67920672"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.ViewController.(game in _460F1539FF075A691B81FF791FAE30F5).setter : RepeatConcentration.ConcetrationGame"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/RepeatConcentration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "7E0B427A-F834-4521-ABF4-E9174C24F86E - ff03711c67920806"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.ViewController.(game in _460F1539FF075A691B81FF791FAE30F5).modify : RepeatConcentration.ConcetrationGame"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/RepeatConcentration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "7E0B427A-F834-4521-ABF4-E9174C24F86E - 8253f7746f14f5b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.ViewController.(game in _460F1539FF075A691B81FF791FAE30F5).modify : RepeatConcentration.ConcetrationGame with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/RepeatConcentration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "7E0B427A-F834-4521-ABF4-E9174C24F86E - 2f635caca418efe1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; RepeatConcentration.ViewController"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/RepeatConcentration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "303">
+               </Location>
+               <Location
+                  uuid = "7E0B427A-F834-4521-ABF4-E9174C24F86E - 5901e9610127ac2a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;RepeatConcentration.ViewController&gt;"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/RepeatConcentration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "244">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB013896-4CEC-4437-BFF8-C1053B0E7769"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepeatConcentration/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "numberOfPairsOfCards"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A19BF599-9F62-44E5-B435-9275CCF6238B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepeatConcentration/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "touches"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "A19BF599-9F62-44E5-B435-9275CCF6238B - 67505827e50ed429"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.ViewController.touches.getter : Swift.Int"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/RepeatConcentration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "110">
+               </Location>
+               <Location
+                  uuid = "A19BF599-9F62-44E5-B435-9275CCF6238B - b22401215fad803d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.ViewController.touches.setter : Swift.Int"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/RepeatConcentration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "129">
+               </Location>
+               <Location
+                  uuid = "A19BF599-9F62-44E5-B435-9275CCF6238B - c3411ebb68f3fe9e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.ViewController.touches.modify : Swift.Int"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/RepeatConcentration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "22">
+               </Location>
+               <Location
+                  uuid = "A19BF599-9F62-44E5-B435-9275CCF6238B - e7483842e9e0613d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.ViewController.touches.modify : Swift.Int with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/RepeatConcentration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "10">
+               </Location>
+               <Location
+                  uuid = "A19BF599-9F62-44E5-B435-9275CCF6238B - 2f635caca418ee27"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; RepeatConcentration.ViewController"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/RepeatConcentration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "397">
+               </Location>
+               <Location
+                  uuid = "A19BF599-9F62-44E5-B435-9275CCF6238B - 5901e9610127adec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;RepeatConcentration.ViewController&gt;"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/RepeatConcentration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "338">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78FC0671-EFAF-4D8E-8BCE-B99ED01CA9E7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepeatConcentration/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "78FC0671-EFAF-4D8E-8BCE-B99ED01CA9E7 - 6151fd140084aaa9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.ViewController.(emojiCollection in _460F1539FF075A691B81FF791FAE30F5).getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/RepeatConcentration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "78FC0671-EFAF-4D8E-8BCE-B99ED01CA9E7 - 6151fd140084aaa9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.ViewController.(emojiCollection in _460F1539FF075A691B81FF791FAE30F5).setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/RepeatConcentration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "78FC0671-EFAF-4D8E-8BCE-B99ED01CA9E7 - d944273d3ed30f64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.ViewController.(emojiCollection in _460F1539FF075A691B81FF791FAE30F5).modify : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/RepeatConcentration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "78FC0671-EFAF-4D8E-8BCE-B99ED01CA9E7 - f1fd72c8b54b6e2b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.ViewController.(emojiCollection in _460F1539FF075A691B81FF791FAE30F5).modify : Swift.Array&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/RepeatConcentration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "78FC0671-EFAF-4D8E-8BCE-B99ED01CA9E7 - 2f635caca418ed6d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; RepeatConcentration.ViewController"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/RepeatConcentration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "492">
+               </Location>
+               <Location
+                  uuid = "78FC0671-EFAF-4D8E-8BCE-B99ED01CA9E7 - 5901e9610127aea6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;RepeatConcentration.ViewController&gt;"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/RepeatConcentration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "433">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F11DAB7-6176-4461-BFA9-AD7D938B9A45"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepeatConcentration/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "9F11DAB7-6176-4461-BFA9-AD7D938B9A45 - e2d07161616538a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.ViewController.(emojiDictionary in _460F1539FF075A691B81FF791FAE30F5).getter : Swift.Dictionary&lt;RepeatConcentration.Card, Swift.String&gt;"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/RepeatConcentration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "9F11DAB7-6176-4461-BFA9-AD7D938B9A45 - 9dcf64ca6790a0b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.ViewController.(emojiDictionary in _460F1539FF075A691B81FF791FAE30F5).setter : Swift.Dictionary&lt;RepeatConcentration.Card, Swift.String&gt;"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/RepeatConcentration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "9F11DAB7-6176-4461-BFA9-AD7D938B9A45 - bb12bba4de2f221b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.ViewController.(emojiDictionary in _460F1539FF075A691B81FF791FAE30F5).modify : Swift.Dictionary&lt;RepeatConcentration.Card, Swift.String&gt;"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/RepeatConcentration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "9F11DAB7-6176-4461-BFA9-AD7D938B9A45 - 55055ee2828f6228"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.ViewController.(emojiDictionary in _460F1539FF075A691B81FF791FAE30F5).modify : Swift.Dictionary&lt;RepeatConcentration.Card, Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/RepeatConcentration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "9F11DAB7-6176-4461-BFA9-AD7D938B9A45 - 2f635caca418ed2f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; RepeatConcentration.ViewController"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/RepeatConcentration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "960">
+               </Location>
+               <Location
+                  uuid = "9F11DAB7-6176-4461-BFA9-AD7D938B9A45 - 5901e9610127aee4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;RepeatConcentration.ViewController&gt;"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/RepeatConcentration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "901">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9AF58D4-F160-49C1-B3BD-C6F4BE5D2F78"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepeatConcentration/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "updateViewFromModel()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5F9DBAD2-E0C7-4F1A-98B4-8245453AE415"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepeatConcentration/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "buttonAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39027F0C-266F-4906-BBA8-1E2D6BE4345D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepeatConcentration/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "updateViewFromModel()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5DAD4450-AE68-4477-80AA-49AE74ABE7D8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepeatConcentration/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "updateViewFromModel()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "32E116EB-A493-40EA-B020-9AD8FC7FFE09"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ConcetrationGame.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "indexOfOneAndOnlyFaceUpCard"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "051906F2-B03E-4EAA-8C9B-FB39F559F2EF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ConcetrationGame.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "init(numberOfPairsOfCards:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92C88246-2641-40B3-9238-384D00170693"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ConcetrationGame.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "init(numberOfPairsOfCards:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1416ACCC-B2E7-4534-9626-0064C6200B4B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepeatConcentration/Cards.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "03858702-DD87-4CBD-B193-7D85FB1978EB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepeatConcentration/Cards.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "Card"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "03858702-DD87-4CBD-B193-7D85FB1978EB - 919c7b703d37513b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "globalinit_33_8081AC5ADA052AC4E1A89E7025674659_func0"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/RepeatConcentration/Cards.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "03858702-DD87-4CBD-B193-7D85FB1978EB - 816e2c69b7d007b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.Card.(identifierNumber in _8081AC5ADA052AC4E1A89E7025674659).unsafeMutableAddressor : Swift.Int"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/RepeatConcentration/Cards.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "156A6951-CE8C-4394-97DC-96B4FED06B1A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepeatConcentration/Cards.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "Card"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "98CC4D72-3035-4FAE-8549-D1086B1425EE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepeatConcentration/Cards.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "Card"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4267416A-C235-4037-9FFF-799660EC6387"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepeatConcentration/Cards.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "==(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D54FBC82-4BD2-489D-A02C-2865EF628300"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepeatConcentration/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "updateViewFromModel()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B1A3511-05BF-465D-83BF-B9FF005142D5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepeatConcentration/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "arc4randomExtension"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17E18786-92E2-4C7F-A794-C2FE7F7B1090"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepeatConcentration/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "emojiJoin(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FF9BB47A-8531-405D-BA05-5D2C2E903B12"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ConcetrationGame.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ConcetrationGame"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45A7DCA9-B858-49B3-BC03-8698929CB36C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ConcetrationGame.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "indexOfOneAndOnlyFaceUpCard"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B22A9AF2-8727-4EE8-93FF-98519CCED9A0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ConcetrationGame.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "indexOfOneAndOnlyFaceUpCard"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2847F702-5DD8-4BA6-B0C1-AB5125870354"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ConcetrationGame.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "indexOfOneAndOnlyFaceUpCard"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ED4F4B42-0923-44EF-90FB-AD6EBA03EDB6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ConcetrationGame.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "indexOfOneAndOnlyFaceUpCard"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8672E60-6899-43C5-AF0C-A891EE054A86"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ConcetrationGame.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "chooseCard(index:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F8A0C858-4207-4530-B40D-EF234ACF21E1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ConcetrationGame.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "chooseCard(index:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5209BD34-355E-49CC-A091-4951BD8230AA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepeatConcentration/Cards.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "hash(into:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F9030B06-779A-4EBD-9DB2-8455CD9A48F3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepeatConcentration/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F9030B06-779A-4EBD-9DB2-8455CD9A48F3 - f625184bd613edea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.ViewController.(buttonCollection in _460F1539FF075A691B81FF791FAE30F5).getter : Swift.Optional&lt;Swift.Array&lt;__C.UIButton&gt;&gt;"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/RepeatConcentration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "F9030B06-779A-4EBD-9DB2-8455CD9A48F3 - f625184bd613edea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.ViewController.(buttonCollection in _460F1539FF075A691B81FF791FAE30F5).setter : Swift.Optional&lt;Swift.Array&lt;__C.UIButton&gt;&gt;"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/RepeatConcentration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "F9030B06-779A-4EBD-9DB2-8455CD9A48F3 - f625184bd613e65b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.ViewController.(buttonCollection in _460F1539FF075A691B81FF791FAE30F5).modify : Swift.Optional&lt;Swift.Array&lt;__C.UIButton&gt;&gt;"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/RepeatConcentration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "F9030B06-779A-4EBD-9DB2-8455CD9A48F3 - 821ea2428546440f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.ViewController.(buttonCollection in _460F1539FF075A691B81FF791FAE30F5).modify : Swift.Optional&lt;Swift.Array&lt;__C.UIButton&gt;&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/RepeatConcentration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "F9030B06-779A-4EBD-9DB2-8455CD9A48F3 - 2f635caca418ea24"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; RepeatConcentration.ViewController"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/RepeatConcentration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "1101">
+               </Location>
+               <Location
+                  uuid = "F9030B06-779A-4EBD-9DB2-8455CD9A48F3 - 5901e9610127a9ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;RepeatConcentration.ViewController&gt;"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/RepeatConcentration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "1042">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F1CCAD2-5725-4FBA-AAB2-9366802861A2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepeatConcentration/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2F1CCAD2-5725-4FBA-AAB2-9366802861A2 - 2ac3e56a12930cf7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.ViewController.(labelTouches in _460F1539FF075A691B81FF791FAE30F5).getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/RepeatConcentration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "2F1CCAD2-5725-4FBA-AAB2-9366802861A2 - 2ac3e56a12930cf7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.ViewController.(labelTouches in _460F1539FF075A691B81FF791FAE30F5).setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/RepeatConcentration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "2F1CCAD2-5725-4FBA-AAB2-9366802861A2 - 899a2f76f164165d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.ViewController.(labelTouches in _460F1539FF075A691B81FF791FAE30F5).modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/RepeatConcentration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "2F1CCAD2-5725-4FBA-AAB2-9366802861A2 - 199bec3b688ad2a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.ViewController.(labelTouches in _460F1539FF075A691B81FF791FAE30F5).modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/RepeatConcentration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "2F1CCAD2-5725-4FBA-AAB2-9366802861A2 - 2f635caca418ea07"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; RepeatConcentration.ViewController"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/RepeatConcentration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "1201">
+               </Location>
+               <Location
+                  uuid = "2F1CCAD2-5725-4FBA-AAB2-9366802861A2 - 5901e9610127a9cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;RepeatConcentration.ViewController&gt;"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/RepeatConcentration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "1142">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C50D389-8250-4645-86AB-D3F0FC5C02BA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepeatConcentration/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "buttonAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E83CAA19-BEDB-4792-99E0-ABC11AA54BF3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ConcetrationGame.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "init(numberOfPairsOfCards:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E83CAA19-BEDB-4792-99E0-ABC11AA54BF3 - afd2c3a721e22334"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.ConcetrationGame.__allocating_init(numberOfPairsOfCards: Swift.Int) -&gt; RepeatConcentration.ConcetrationGame"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/ConcetrationGame.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "21">
+               </Location>
+               <Location
+                  uuid = "E83CAA19-BEDB-4792-99E0-ABC11AA54BF3 - b70ba7f8670dc663"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepeatConcentration.ConcetrationGame.init(numberOfPairsOfCards: Swift.Int) -&gt; RepeatConcentration.ConcetrationGame"
+                  moduleName = "RepeatConcentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariavolkova/Desktop/Swift%20Learn/RepeatConcentration/ConcetrationGame.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "178">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6FE5345-EBBE-49FF-9F91-4B8EC1008D49"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepeatConcentration/Cards.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D22E038D-7598-4F66-BD4E-7FB5BA9E6545"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepeatConcentration/Cards.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "Card"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8D6415F-650B-4F4C-BE52-38FB3B01132B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepeatConcentration/Cards.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "identifierGenerator()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC39C033-0E73-48E3-968A-0E33C9C1D211"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ConcetrationGame.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "init(numberOfPairsOfCards:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A8B637CA-85A9-4051-8B82-56D346F50F5F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepeatConcentration/Cards.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "==(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C93E7E3C-25AC-47BF-A981-D900D9B272F9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ConcetrationGame.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "chooseCard(index:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D392889C-9846-4F06-886E-2A188D5CEFAA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ConcetrationGame.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "chooseCard(index:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5DB2B3BE-19BE-44F0-A267-7AF243718AFB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ConcetrationGame.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "chooseCard(index:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D34E9780-F439-4880-9309-F7369F0905BD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ConcetrationGame.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "indexOfOneAndOnlyFaceUpCard"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BDB58C7D-5C77-4AE8-8E3D-6ABD378173E2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ConcetrationGame.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "indexOfOneAndOnlyFaceUpCard"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "63D8FC30-2507-40F7-90E0-2D13699D3C0F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepeatConcentration/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "updateViewFromModel()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A5994ED4-46E4-4B24-91E9-D286FB51150B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepeatConcentration/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "updateViewFromModel()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8358894-9113-4017-9795-D54AA3F8BA91"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepeatConcentration/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "updateViewFromModel()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "77348AFE-871A-4549-9BF3-DB0B59DFA62C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepeatConcentration/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "updateViewFromModel()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48D654E5-4421-46F4-86EA-CEEF2F0007DE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepeatConcentration/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "emojiJoin(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3262D1A6-3D28-412F-822C-3031624CFEB1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepeatConcentration/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "emojiJoin(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
